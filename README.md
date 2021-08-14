@@ -9,7 +9,7 @@ Combined the above bluetooth controller example with some example effects and so
 Hardware required:
 
 VR BOX Bluetooth Remote Controller or equivalent.
-2 TFT Displays, I used the 1.3 inch 
+2 TFT Displays, I used the 1.3 inch type
 Esp32 Dev Kit
 Wires and soldering equipment
 
