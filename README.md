@@ -12,7 +12,7 @@ VR BOX Bluetooth Remote Controller or equivalent.
 2 TFT Displays, I used the 1.3 inch type
 Esp32 Dev Kit
 Wires and soldering equipment
-
+good power supply and cable
 
 Libraries required:
 
@@ -31,4 +31,6 @@ sleep and move the eyeballs around, carefully trying not anger it.
 
 Have fun.
 
+Here it is in action.
 
+https://youtu.be/9c1NsPfstwQ 
