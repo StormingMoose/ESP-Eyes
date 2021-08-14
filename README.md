@@ -16,9 +16,9 @@ Wires and soldering equipment
 
 Libraries required:
 
-#include "BLEDevice.h"     Bluetooth
+#include <BLEDevice.h>     Bluetooth
 #include <FS.h>            Spiffs
-#include "SPIFFS.h" 
+#include <SPIFFS.h> 
 #include <TFT_eSPI.h>      Display
 
 # To use:
